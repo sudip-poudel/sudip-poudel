@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studiying Software Engineering in Pokhara University🌱 I’m currently learning<br>
+🔭 I’m currently studiying Software Engineering in Pokhara University<br>🌱 I’m currently learning Full Stack Web Development<br>
 
 
 # 💻 Tech Stack:
